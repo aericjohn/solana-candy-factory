@@ -56,7 +56,7 @@
     "envfile": "^6.17.0",
     "eslint": "8.0.1",
     "eslint-config-next": "11.1.2",
-    "postcss": "^8.3.9",
+    "postcss": "^8.4.31",
     "shelljs": "^0.8.4",
     "strapi-sdk-javascript": "^0.3.3",
     "tailwindcss": "^2.2.17",
